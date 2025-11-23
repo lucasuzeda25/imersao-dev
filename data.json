@@ -1,0 +1,263 @@
+[
+  {
+    "nome": "Primeiro jogo",
+    "descricao": "O Primeiro jogo criado na historia",
+    "data": "1958",
+    "link": "https://observatoriodegames.com.br/retro/qual-foi-o-primeiro-game-criado-na-historia",
+    "tags": [
+      "jogos",
+      "games"
+    ]
+  },
+  {
+    "nome": "Primeiro console",
+    "descricao": "O primeiro console foi o Magnavox Odyssey",
+    "data": "1972",
+    "link": "https://pt.wikipedia.org/wiki/Magnavox_Odyssey",
+    "tags": [
+      "consoles",
+      "Primeiro console"
+    ]
+  },
+  {
+    "nome": "Evolução dos jogos",
+    "descricao": "Dos anos 50, até hoje, veremos a evolução dos jogos",
+    "data": "(1958 - Atual)",
+    "link": "https://www.youtube.com/watch?v=RMNjO-rFGX4",
+    "tags": [
+      "jogos",
+      "games",
+      "historia dos jogos",
+      "historia dos games",
+      "evolução"
+    ]
+  },
+  {
+    "nome": "Evolução dos consoles",
+    "descricao": "Dos anos 70, até hoje, veremos a evolução dos consoles",
+    "data": "(1972 - Atual)",
+    "link": "https://catracalivre.com.br/jogos/a-historia-dos-consoles-uma-linha-do-tempo-das-principais-geracoes/",
+    "tags": [
+      "consoles",
+      "historia dos consoles",
+      "evolução"
+    ]
+  },
+  {
+    "nome": "Unreal Engine 5 (UE5)",
+    "descricao": "Motor gráfico de última geração conhecido por suas ferramentas Nanite e Lumen, que possibilitam ambientes hiper-realistas e detalhados em tempo real.",
+    "data": "2021",
+    "link": "https://www.unrealengine.com/",
+    "tags": [
+      "motores graficos",
+      "desenvolvimento de jogos",
+      "gráficos",
+      "next-gen"
+    ]
+  },
+  {
+    "nome": "Xbox Game Pass",
+    "descricao": "Serviço de assinatura da Microsoft que oferece acesso a uma vasta biblioteca de jogos, incluindo todos os títulos first-party no dia do lançamento.",
+    "data": "2017",
+    "link": "https://www.xbox.com/pt-BR/xbox-game-pass",
+    "tags": [
+      "serviços de assinatura",
+      "cloud gaming",
+      "biblioteca de jogos",
+      "consoles"
+    ]
+  },
+  {
+    "nome": "Ray Tracing",
+    "descricao": "Técnica de renderização que simula o comportamento físico da luz para produzir reflexos, sombras e iluminação ultrarrealistas nos jogos 3D.",
+    "data": "2018",
+    "link": "https://www.nvidia.com/pt-br/geforce/technologies/ray-tracing/",
+    "tags": [
+      "gráficos",
+      "hardware",
+      "renderização",
+      "otimização"
+    ]
+  },
+  {
+    "nome": "NVIDIA DLSS",
+    "descricao": "Deep Learning Super Sampling, uma tecnologia de upscaling que usa IA para renderizar imagens em menor resolução e as escala para qualidade superior, melhorando o desempenho.",
+    "data": "2018",
+    "link": "https://www.nvidia.com/pt-br/geforce/technologies/dlss/",
+    "tags": [
+      "inteligência artificial",
+      "gráficos",
+      "otimização",
+      "PC gaming"
+    ]
+  },
+  {
+    "nome": "Cross-Play/Cross-Progression",
+    "descricao": "Recursos que permitem que jogadores de diferentes plataformas joguem juntos (Cross-Play) e mantenham seu progresso em contas diferentes (Cross-Progression).",
+    "data": "2019",
+    "link": "https://www.epicgames.com/site/pt-BR/crossplay",
+    "tags": [
+      "multiplayer",
+      "serviços online",
+      "conectividade",
+      "jogos"
+    ]
+  },
+  {
+    "nome": "Adaptive Triggers (PS5)",
+    "descricao": "Recurso do controle DualSense do PS5 que permite que os gatilhos ofereçam resistência e vibração dinâmicas, simulando ações físicas do jogo (como puxar um arco).",
+    "data": "2020",
+    "link": "https://www.playstation.com/pt-br/accessories/dualsense-wireless-controller/",
+    "tags": [
+      "hardware",
+      "consoles",
+      "imersão",
+      "acessórios"
+    ]
+  },
+  {
+    "nome": "Cloud Gaming (Streaming de Jogos)",
+    "descricao": "Tecnologia que permite rodar jogos em servidores remotos e transmiti-los para o dispositivo do usuário (PC, celular ou console), exigindo apenas uma boa conexão de internet.",
+    "data": "2019",
+    "link": "https://www.nvidia.com/pt-br/geforce-now/",
+    "tags": [
+      "streaming",
+      "serviços online",
+      "infraestrutura",
+      "acessibilidade"
+    ]
+  },
+  {
+    "nome": "Anti-Cheat Kernel Level",
+    "descricao": "Software de segurança executado no nível mais profundo do sistema operacional (kernel) para prevenir trapaças em jogos competitivos online, como Valorant e Destiny 2.",
+    "data": "2020",
+    "link": "https://www.riotgames.com/pt-br/news/developer-update-vanguard-anti-cheat",
+    "tags": [
+      "segurança",
+      "multiplayer",
+      "esports",
+      "software"
+    ]
+  },
+  {
+    "nome": "Procedural Generation",
+    "descricao": "Técnica que utiliza algoritmos para criar automaticamente vastos conteúdos, como mapas, níveis e itens, reduzindo a carga de trabalho manual dos desenvolvedores.",
+    "data": "2016",
+    "link": "https://www.hellogames.org/",
+    "tags": [
+      "desenvolvimento de jogos",
+      "algoritmos",
+      "mundos abertos",
+      "design"
+    ]
+  },
+  {
+    "nome": "Haptic Feedback",
+    "descricao": "Tecnologia de vibração avançada que oferece sensações táteis detalhadas e variadas ao jogador, simulando texturas e impactos com maior precisão do que a vibração tradicional.",
+    "data": "2020",
+    "link": "https://www.razer.com/haptic-feedback",
+    "tags": [
+      "imersão",
+      "hardware",
+      "acessórios",
+      "consoles"
+    ]
+  },
+  {
+    "nome": "NVMe SSD (Consoles)",
+    "descricao": "Tecnologia de armazenamento de estado sólido ultrarrápido (Non-Volatile Memory Express) que eliminou as telas de carregamento longas nos consoles de nona geração.",
+    "data": "2020",
+    "link": "https://www.playstation.com/pt-br/ps5/specs/",
+    "tags": [
+      "hardware",
+      "armazenamento",
+      "consoles",
+      "desempenho"
+    ]
+  },
+  {
+    "nome": "Unity Engine",
+    "descricao": "Motor de desenvolvimento multiplataforma amplamente utilizado na criação de jogos mobile, indie e títulos em VR/AR, conhecido por sua facilidade de uso.",
+    "data": "2005",
+    "link": "https://unity.com/pt",
+    "tags": [
+      "motores graficos",
+      "desenvolvimento de jogos",
+      "mobile gaming",
+      "realidade aumentada"
+    ]
+  },
+  {
+    "nome": "FidelityFX Super Resolution (FSR)",
+    "descricao": "Alternativa de código aberto da AMD ao DLSS, que usa algoritmos de upscaling espacial para melhorar a performance e qualidade de imagem em diversas placas de vídeo.",
+    "data": "2021",
+    "link": "https://www.amd.com/pt/technologies/fidelityfx-super-resolution",
+    "tags": [
+      "gráficos",
+      "hardware",
+      "otimização",
+      "PC gaming"
+    ]
+  },
+  {
+    "nome": "Quick Resume (Xbox)",
+    "descricao": "Recurso dos consoles Xbox Series X/S que permite aos jogadores pausar e retomar múltiplos jogos instantaneamente, sem a necessidade de recarregar o jogo ou a sessão.",
+    "data": "2020",
+    "link": "https://www.xbox.com/pt-BR/consoles/xbox-series-x",
+    "tags": [
+      "software",
+      "otimização",
+      "consoles",
+      "experiência do usuário"
+    ]
+  },
+  {
+    "nome": "Blockchain Gaming (Web3)",
+    "descricao": "Modelo de jogos que incorpora ativos digitais baseados em blockchain (NFTs) e criptomoedas, permitindo que os jogadores possuam itens e participem da economia do jogo.",
+    "data": "2021",
+    "link": "https://www.axieinfinity.com/",
+    "tags": [
+      "tendências",
+      "economia digital",
+      "NFTs",
+      "monetização"
+    ]
+  },
+  {
+    "nome": "Variable Refresh Rate (VRR)",
+    "descricao": "Recurso de display que sincroniza a taxa de atualização da tela com a taxa de quadros do console/PC, eliminando o screen tearing e minimizando o input lag.",
+    "data": "2022",
+    "link": "https://www.rtings.com/vrr",
+    "tags": [
+      "hardware",
+      "desempenho",
+      "gráficos",
+      "experiência do usuário"
+    ]
+  },
+  
+  {
+    "nome": "Inteligência Artificial (NPCs)",
+    "descricao": "Uso de IA avançada para criar NPCs (personagens não-jogáveis) mais complexos, que respondem dinamicamente ao ambiente e às ações do jogador com comportamento menos roteirizado.",
+    "data": "2023",
+    "link": "https://www.nvidia.com/pt-br/research/ai-npc/",
+    "tags": [
+      "inteligência artificial",
+      "desenvolvimento de jogos",
+      "simulação",
+      "imersão"
+    ]
+  },
+  {
+    "nome": "Motor Frostbite",
+    "descricao": "Motor gráfico proprietário da Electronic Arts, conhecido por seu alto nível de detalhe em destruição de ambientes e sua otimização para jogos de tiro em primeira pessoa.",
+    "data": "2008",
+    "link": "https://www.ea.com/pt-br/frostbite",
+    "tags": [
+      "motores graficos",
+      "desenvolvimento de jogos",
+      "gráficos",
+      "FPS"
+    ]
+  }
+]
